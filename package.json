@@ -1,6 +1,6 @@
 {
   "name": "comp308-w2018-lesson3a",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node server.js"
@@ -17,5 +17,17 @@
     "express": "~4.15.5",
     "morgan": "~1.9.0",
     "serve-favicon": "~2.4.5"
-  }
+  },
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PawanAtCentennial/COMP308-w2018-Lesson3A.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PawanAtCentennial/COMP308-w2018-Lesson3A/issues"
+  },
+  "homepage": "https://github.com/PawanAtCentennial/COMP308-w2018-Lesson3A#readme",
+  "description": ""
 }
